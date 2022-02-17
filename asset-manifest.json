@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wing-resume/static/css/main.9e6d86fd.css",
+    "main.js": "/wing-resume/static/js/main.1c34d172.js",
+    "static/js/787.28cb0dcd.chunk.js": "/wing-resume/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/wing-resume/index.html",
+    "main.9e6d86fd.css.map": "/wing-resume/static/css/main.9e6d86fd.css.map",
+    "main.1c34d172.js.map": "/wing-resume/static/js/main.1c34d172.js.map",
+    "787.28cb0dcd.chunk.js.map": "/wing-resume/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6d86fd.css",
+    "static/js/main.1c34d172.js"
+  ]
+}
