@@ -13,10 +13,11 @@
 
 ## 专业技能
 
-- vue(80%)、element-ui(70%)、vant-ui(90%)、JQuery(80%)、quillJS(60%)、vue-dragable、Echarts、Zepto、Bootstrap等主流前端技术框架
+- 熟练使用vue(80%)、element-ui(70%)、vant-ui(90%)、JQuery(80%)、quillJS(60%)、vue-dragable、Echarts、Zepto、Bootstrap等主流前端框架
 - 熟悉HTML5、CSS3新特性(50%)，掌握flex布局(90%)、响应式媒体查询，能够开发适配多种终端的h5页面
 - 熟练使用git(90%)、svn代码版本管理工具
 - 有使用Node.js开发过项目脚本，熟悉webpack、vue-cli配置工作，可高效完成前端工程化开发
+- 了解React、TypeScript主流框架的基本使用
 
 ## 综述
 
