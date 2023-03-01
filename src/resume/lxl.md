@@ -15,9 +15,9 @@
 
 - 熟练使用Vue2.0 / Element-ui / Vant-ui / JQuery / Echarts，了解Vue3.0 / React / TypeScript
 - 具备丰富的Hybird App开发经验，拥有10+个**移动端h5项目**开发经验
-- 有使用Node.js开发过项目脚本，熟悉webpack、vue-cli配置工作，可高效完成前端工程化开发
+- 有使用Node.js开发过项目脚本，熟悉webpack、Vue-cli配置工作，可高效完成前端工程化开发
 - 熟练使用git / svn代码版本管理工具
-- 擅长web应用的性能调试和优化工作
+- 擅长WEB应用的性能调试和优化工作
 
 ### 简介
 
